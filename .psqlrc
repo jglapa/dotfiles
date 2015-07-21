@@ -1,0 +1,7 @@
+\set PROMPT1 '(%n@%M:%>) [%/]  [%x] %# '
+\set HISTSIZE 10000
+\timing
+\pset pager off
+\pset null '(null)'
+\encoding unicode
+\pset format wrapped
