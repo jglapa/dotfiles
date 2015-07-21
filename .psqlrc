@@ -5,3 +5,4 @@
 \pset null '(null)'
 \encoding unicode
 \pset format wrapped
+\set ON_ERROR_ROLLBACK
