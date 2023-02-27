@@ -13,6 +13,7 @@
 \encoding unicode
 \pset format wrapped
 \set ON_ERROR_ROLLBACK
+\set FETCH_COUNT 10000
 SET tcp_keepalives_idle = 10;
 
 \set QUIET off
