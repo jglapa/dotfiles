@@ -4,7 +4,7 @@
 \set PROMPT2 '%R> '
 \set HISTCONTROL ignoredups
 \set VERBOSITY verbose
-\set HISTSIZE 10000
+\set HISTSIZE -1
 \set COMP_KEYWORD_CASE lower
 \pset linestyle unicode
 \timing
